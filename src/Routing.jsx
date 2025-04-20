@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import App from "./App";
-import Halaman from "./halaman";
+import Halaman from "./Halaman";
 import Halamandua from "./Halamandua";
 import HalamanTiga from "./HalamanTiga";
 import HalamanEmpat from "./HalamanEmpat";
